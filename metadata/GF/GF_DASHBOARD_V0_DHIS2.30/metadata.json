@@ -921,7 +921,8 @@
 	],
 	"indicators": [
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_CM-1a",
 			"created": "2020-09-03T18:32:32.972",
@@ -960,7 +961,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_CM-1b",
 			"created": "2020-09-03T18:32:32.972",
@@ -999,7 +1001,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_CM-1c",
 			"created": "2020-09-03T18:32:32.972",
@@ -1038,7 +1041,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-1a",
 			"created": "2020-09-03T18:32:32.968",
@@ -1077,7 +1081,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-1b",
 			"created": "2020-09-03T18:32:32.968",
@@ -1116,7 +1121,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-1c",
 			"created": "2020-09-03T18:32:32.969",
@@ -1155,7 +1161,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-1d",
 			"created": "2020-09-03T18:32:32.969",
@@ -1194,7 +1201,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-3a",
 			"created": "2020-09-03T18:32:32.970",
@@ -1233,7 +1241,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-3b",
 			"created": "2020-09-03T18:32:32.970",
@@ -1272,7 +1281,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-3c",
 			"created": "2020-09-03T18:32:32.970",
@@ -1311,7 +1321,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_KP-3d",
 			"created": "2020-09-03T18:32:32.971",
@@ -1350,7 +1361,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_MDR TB-3",
 			"created": "2020-09-03T18:32:32.972",
@@ -1389,7 +1401,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_PMTCT-2.1",
 			"created": "2020-09-03T18:32:32.967",
@@ -1428,7 +1441,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RE-ART",
 			"created": "2020-09-03T18:32:32.974",
@@ -1467,7 +1481,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RE-KP",
 			"created": "2020-09-03T18:32:32.975",
@@ -1506,7 +1521,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RE-MAL",
 			"created": "2020-09-03T18:32:32.974",
@@ -1545,7 +1561,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RE-TB",
 			"created": "2020-09-03T18:32:32.974",
@@ -1584,7 +1601,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RR-ART",
 			"created": "2020-09-03T18:32:32.973",
@@ -1623,7 +1641,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RR-KP",
 			"created": "2020-09-03T18:32:32.975",
@@ -1662,7 +1681,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RR-MAL",
 			"created": "2020-09-03T18:32:32.974",
@@ -1701,7 +1721,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_RR-TB",
 			"created": "2020-09-03T18:32:32.974",
@@ -1740,7 +1761,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_TB/HIV-3.1",
 			"created": "2020-09-03T18:32:32.972",
@@ -1779,7 +1801,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_TCP-1",
 			"created": "2020-09-03T18:32:32.973",
@@ -1818,7 +1841,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_TCP-7a",
 			"created": "2020-09-03T18:32:32.973",
@@ -1857,7 +1881,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_TCP-7b",
 			"created": "2020-09-03T18:32:32.973",
@@ -1896,7 +1921,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_TCP-7c",
 			"created": "2020-09-03T18:32:32.973",
@@ -1935,7 +1961,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_TCS-1.1",
 			"created": "2020-09-03T18:32:32.964",
@@ -1974,7 +2001,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_TCS-New",
 			"created": "2020-09-03T18:32:32.966",
@@ -2013,7 +2041,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_VC-3",
 			"created": "2020-09-03T18:32:32.971",
@@ -2052,7 +2081,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_VC-5",
 			"created": "2020-09-03T18:32:32.971",
@@ -2091,7 +2121,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_YP-2",
 			"created": "2020-09-03T18:32:32.971",
@@ -2130,7 +2161,8 @@
 			]
 		},
 		{
-			"annualized": false,
+						"annualized": false,
+			"decimals": 0,
 			"attributeValues": [],
 			"code": "GF_YP-3",
 			"created": "2020-09-03T18:32:32.971",
