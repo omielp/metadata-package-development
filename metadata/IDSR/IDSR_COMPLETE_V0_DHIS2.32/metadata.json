@@ -14473,10 +14473,10 @@
 					"id": "UEwh9Nzkyte"
 				},
 				{
-					"id": "hQlQCMJVGm5"
+					"id": "K5SVUv3lStz"
 				},
 				{
-					"id": "K5SVUv3lStz"
+					"id": "hQlQCMJVGm5"
 				},
 				{
 					"id": "oI7XZUpAcs6"
@@ -14506,10 +14506,10 @@
 					"id": "Bhq0SYV7mDQ"
 				},
 				{
-					"id": "cQEzLU5zHVR"
+					"id": "hHsJACKkI5f"
 				},
 				{
-					"id": "hHsJACKkI5f"
+					"id": "cQEzLU5zHVR"
 				},
 				{
 					"id": "TzYSEXFpeD5"
@@ -14570,9 +14570,6 @@
 				},
 				{
 					"id": "WND2T40z1d1"
-				},
-				{
-					"id": "FS6Ml4vHa4P"
 				},
 				{
 					"id": "T2H2TbUBrDY"
@@ -14789,9 +14786,12 @@
 				},
 				{
 					"id": "ER0GyaaFTpd"
+				},
+				{
+					"id": "FS6Ml4vHa4P"
 				}
 			],
-			"lastUpdated": "2020-06-30T20:29:33.972",
+			"lastUpdated": "2020-09-29T17:39:17.541",
 			"name": "IDSR",
 			"publicAccess": "r-------",
 			"translations": [],
@@ -14816,13 +14816,25 @@
 					"id": "YrI7hQQadTD"
 				},
 				{
+					"id": "zBflDq8KY5L"
+				},
+				{
 					"id": "fajwNPsupHJ"
+				},
+				{
+					"id": "lMRuY8KHVKP"
+				},
+				{
+					"id": "UEwh9Nzkyte"
+				},
+				{
+					"id": "K5SVUv3lStz"
 				},
 				{
 					"id": "hQlQCMJVGm5"
 				},
 				{
-					"id": "K5SVUv3lStz"
+					"id": "oI7XZUpAcs6"
 				},
 				{
 					"id": "jTtMVb8GAIH"
@@ -14831,19 +14843,28 @@
 					"id": "clKgNLbcRAp"
 				},
 				{
+					"id": "U4Ya6XzPc1t"
+				},
+				{
 					"id": "Krl87NwzrzS"
 				},
 				{
-					"id": "cQEzLU5zHVR"
+					"id": "GCF9N8Z9O3U"
 				},
 				{
 					"id": "hHsJACKkI5f"
+				},
+				{
+					"id": "cQEzLU5zHVR"
 				},
 				{
 					"id": "WpC4r43PwBr"
 				},
 				{
 					"id": "V6hrsxzaRWa"
+				},
+				{
+					"id": "hQKLpTV16Tc"
 				},
 				{
 					"id": "eAyOBfJrs3r"
@@ -14861,13 +14882,22 @@
 					"id": "QYI4OsZ0MXt"
 				},
 				{
+					"id": "GO9uTXK1BMj"
+				},
+				{
 					"id": "eF3kvrEC92b"
+				},
+				{
+					"id": "POZt3S16FR3"
 				},
 				{
 					"id": "JtnZyeExDnc"
 				},
 				{
 					"id": "SDTCkYf3yty"
+				},
+				{
+					"id": "uD7QDfNEpI2"
 				},
 				{
 					"id": "XIMXNswD8Ah"
@@ -14900,7 +14930,16 @@
 					"id": "xtky4S0uHGJ"
 				},
 				{
+					"id": "Pct5ZPMzYYU"
+				},
+				{
 					"id": "Gazfp4C0d0g"
+				},
+				{
+					"id": "VDhSNgO5aEM"
+				},
+				{
+					"id": "A52AlgcaCEN"
 				},
 				{
 					"id": "Nb9CVapWdVE"
@@ -14912,7 +14951,19 @@
 					"id": "ziFf0topvdC"
 				},
 				{
+					"id": "YAZFjSM05TX"
+				},
+				{
+					"id": "y1CNMa8WFB8"
+				},
+				{
 					"id": "m9GkAe97w2p"
+				},
+				{
+					"id": "f0NZdz0C7mU"
+				},
+				{
+					"id": "jOPsgu2wKpP"
 				},
 				{
 					"id": "j33w6nNEKnL"
@@ -14922,6 +14973,9 @@
 				},
 				{
 					"id": "QRzHPqj6T8j"
+				},
+				{
+					"id": "KmsiTTRKukj"
 				},
 				{
 					"id": "VT7WZlgGtx0"
@@ -14934,6 +14988,9 @@
 				},
 				{
 					"id": "uYw7H8L6Zme"
+				},
+				{
+					"id": "b0TMcoqwKne"
 				},
 				{
 					"id": "iZQRc4CWmIr"
@@ -14972,7 +15029,13 @@
 					"id": "DZeudzA82MM"
 				},
 				{
+					"id": "aoEX0fnD5lV"
+				},
+				{
 					"id": "T7JZ2VvrHI7"
+				},
+				{
+					"id": "RK8hP0YA6DY"
 				},
 				{
 					"id": "bsDMS2hPESS"
@@ -15002,16 +15065,25 @@
 					"id": "TbLWFPUyRK1"
 				},
 				{
+					"id": "nmZflUxmA7x"
+				},
+				{
 					"id": "z5jMXJUjwE3"
 				},
 				{
 					"id": "SDaGmAx4Tna"
 				},
 				{
+					"id": "kna1XmkqQso"
+				},
+				{
 					"id": "hKxdzxZ4WFX"
 				},
 				{
 					"id": "vttjnYc5gmZ"
+				},
+				{
+					"id": "oJR70uNhjpc"
 				},
 				{
 					"id": "ffNQctZ9uxd"
@@ -15027,9 +15099,15 @@
 				},
 				{
 					"id": "oZ3ZiT58hBr"
+				},
+				{
+					"id": "ER0GyaaFTpd"
+				},
+				{
+					"id": "FS6Ml4vHa4P"
 				}
 			],
-			"lastUpdated": "2020-07-01T08:52:57.593",
+			"lastUpdated": "2020-09-29T17:41:24.807",
 			"name": "IDSR Aggregate",
 			"publicAccess": "r-------",
 			"translations": [],
@@ -15075,10 +15153,10 @@
 					"id": "sqwG1sbHh2E"
 				},
 				{
-					"id": "QgnRf1pSBr7"
+					"id": "mQUiCSlNSVh"
 				},
 				{
-					"id": "mQUiCSlNSVh"
+					"id": "QgnRf1pSBr7"
 				},
 				{
 					"id": "oI7XZUpAcs6"
@@ -15087,10 +15165,10 @@
 					"id": "DtBKN5J6nUo"
 				},
 				{
-					"id": "IDKxYQBGMdd"
+					"id": "hxWZo7jVGv6"
 				},
 				{
-					"id": "hxWZo7jVGv6"
+					"id": "IDKxYQBGMdd"
 				}
 			],
 			"lastUpdated": "2020-06-23T12:41:06.193",
@@ -15116,7 +15194,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:09.937",
+			"lastUpdated": "2020-09-29T17:38:04.463",
 			"legendSets": [],
 			"name": "IDSR - Actual Reports",
 			"numerator": "R{ZyZmZTUwctj.ACTUAL_REPORTS}",
@@ -15147,7 +15225,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:59.841",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Actual Reports on time",
 			"numerator": "R{ZyZmZTUwctj.ACTUAL_REPORTS_ON_TIME}",
@@ -15178,7 +15256,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:23.935",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute Flacid Paralysis (Confirmed cases VDPV)",
 			"numerator": "#{KY2gR9npnfP}",
@@ -15209,7 +15287,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:25.129",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute Flacid Paralysis (Confirmed cases WPV)",
 			"numerator": "#{b0IzLHcVdm0}",
@@ -15240,7 +15318,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:26.579",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute Flacid Paralysis (Confirmed cases)",
 			"numerator": "#{KY2gR9npnfP} + #{b0IzLHcVdm0}",
@@ -15271,7 +15349,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:43.264",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute Flacid Paralysis (Deaths)",
 			"numerator": "#{P666FBECG0N}",
@@ -15302,7 +15380,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:30.307",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute Flacid Paralysis (Suspected cases)",
 			"numerator": "#{qYJ3YYLADtz}",
@@ -15334,7 +15412,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:22.869",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute Flacid Paralysis(AFP) - Attack rate(/100000)",
 			"numerator": "#{qYJ3YYLADtz}",
@@ -15365,7 +15443,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:31.602",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute watery diarrhoea (Confirmed cases)",
 			"numerator": "-1",
@@ -15390,7 +15468,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:06.634",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute watery diarrhoea (Deaths)",
 			"numerator": "#{bXn9Kmxnd3r}",
@@ -15421,7 +15499,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:05.820",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute watery diarrhoea (Suspected cases)",
 			"numerator": "#{flD9dHHw3Wl}",
@@ -15453,7 +15531,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:30.490",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Acute watery diarrhoea(AWD) - Attack rate(/100000)",
 			"numerator": "#{flD9dHHw3Wl}",
@@ -15485,7 +15563,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:49.047",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Anthrax  - Attack rate(/100000)",
 			"numerator": "#{qrSwfzR61l0}",
@@ -15516,7 +15594,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:37.563",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Anthrax (Confirmed cases)",
 			"numerator": "#{AAwOFcp7xdd}",
@@ -15547,7 +15625,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:44.925",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Anthrax (Deaths)",
 			"numerator": "#{wGj6xfXBaxs}",
@@ -15578,7 +15656,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:46.269",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Anthrax (Suspected cases)",
 			"numerator": "#{qrSwfzR61l0}",
@@ -15609,7 +15687,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:12.471",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Cholera (Confirmed cases)",
 			"numerator": "#{FTWXeWdPdVH}",
@@ -15640,7 +15718,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:08.265",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Cholera (Deaths)",
 			"numerator": "#{miZ7nLeBp1w}",
@@ -15671,7 +15749,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:45.795",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Cholera (Suspected cases)",
 			"numerator": "#{Sc5efRwnOA9}",
@@ -15703,7 +15781,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:42.240",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Cholera - Attack rate(/100000)",
 			"numerator": "#{Sc5efRwnOA9}",
@@ -15734,7 +15812,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:48.067",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Dengue Fever (Confirmed cases)",
 			"numerator": "#{unXcJLrNYNe}",
@@ -15765,7 +15843,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:11.600",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Dengue Fever (Deaths)",
 			"numerator": "#{vd4GxqtKkRC}",
@@ -15796,7 +15874,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:14.210",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Dengue Fever (Suspected cases)",
 			"numerator": "#{wryMP8p8k1C}",
@@ -15828,7 +15906,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:27.057",
+			"lastUpdated": "2020-09-29T17:38:04.464",
 			"legendSets": [],
 			"name": "IDSR - Dengue Fever - Attack rate(/100000)",
 			"numerator": "#{wryMP8p8k1C}",
@@ -15860,7 +15938,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:33.799",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diarrhoea with blood (Shigella) - Attack rate(/100000)",
 			"numerator": "#{juTM5EM0Jo0}",
@@ -15891,7 +15969,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:04.176",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diarrhoea with blood (Shigella)- Confirmed cases)",
 			"numerator": "#{jxvt8LFSx8e}",
@@ -15922,7 +16000,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:30:54.014",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diarrhoea with blood (Shigella)- Deaths",
 			"numerator": "#{ddGAKVfTvlQ}",
@@ -15953,7 +16031,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:27.272",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diarrhoea with blood (Shigella)- Suspected cases)",
 			"numerator": "#{juTM5EM0Jo0}",
@@ -15984,7 +16062,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:53.990",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diphtheria (Confirmed cases)",
 			"numerator": "#{X4gFcPKQ8Cw}",
@@ -16015,7 +16093,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:15.853",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diphtheria (Deaths)",
 			"numerator": "#{xfkxDz03AFK}",
@@ -16046,7 +16124,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:00.028",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diphtheria (Suspected cases)",
 			"numerator": "#{Hrsq0RqGFKO}",
@@ -16078,7 +16156,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:37.214",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [],
 			"name": "IDSR - Diphtheria - Attack rate(/100000)",
 			"numerator": "#{Hrsq0RqGFKO}",
@@ -16110,7 +16188,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:29.596",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16146,7 +16224,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:47.388",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16182,7 +16260,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:22.060",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16218,7 +16296,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:38.919",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16254,7 +16332,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:40.573",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16290,7 +16368,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:27.875",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16326,7 +16404,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:38.112",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16361,7 +16439,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:23.692",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16397,7 +16475,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:46.522",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16433,7 +16511,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:52.368",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16469,7 +16547,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:43.085",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "N2f2YC5tDtu"
@@ -16505,7 +16583,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:35.516",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "CGWUjDCWaMA"
@@ -16540,7 +16618,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:31.318",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "CGWUjDCWaMA"
@@ -16575,7 +16653,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:41.419",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "CGWUjDCWaMA"
@@ -16610,7 +16688,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:20.408",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "CGWUjDCWaMA"
@@ -16645,7 +16723,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:53.191",
+			"lastUpdated": "2020-09-29T17:38:04.465",
 			"legendSets": [
 				{
 					"id": "CGWUjDCWaMA"
@@ -16680,7 +16758,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:20.764",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Dracunculiasis (Confirmed cases)",
 			"numerator": "#{st1ejfpSRo7}",
@@ -16711,7 +16789,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:28.331",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Dracunculiasis (Deaths)",
 			"numerator": "#{GPYSN5lacmj}",
@@ -16742,7 +16820,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:18.425",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Dracunculiasis (Suspected cases)",
 			"numerator": "#{Y0hLSnQE8IV}",
@@ -16774,7 +16852,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:34.632",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Drancucunliasis - Attack rate(/100000)",
 			"numerator": "#{Y0hLSnQE8IV}",
@@ -16805,7 +16883,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:49.852",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Expected reports",
 			"numerator": "R{ZyZmZTUwctj.EXPECTED_REPORTS}",
@@ -16836,7 +16914,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:13.370",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Influenza-Like Illness (Confirmed cases)",
 			"numerator": "#{VCLAcayLVyx}",
@@ -16867,7 +16945,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:29.829",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Influenza-Like Illness (Deaths)",
 			"numerator": "#{WTdHe8OEt1q}",
@@ -16898,7 +16976,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:40.432",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Influenza-Like Illness (Suspected cases)",
 			"numerator": "#{joqqWUXl47C}",
@@ -16930,7 +17008,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:45.644",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Influenza-Like Illness - Attack rate(/100000)",
 			"numerator": "#{joqqWUXl47C}",
@@ -16961,7 +17039,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:50.200",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Measles (Confirmed cases)",
 			"numerator": "#{yMlASPYVU2v}",
@@ -16992,7 +17070,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:34.615",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Measles/rubella (confirmed case)",
 			"numerator": "-1",
@@ -17017,7 +17095,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:36.026",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Measles/rubella (Deaths)",
 			"numerator": "#{qNsd9cPWNVo}",
@@ -17048,7 +17126,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:37.151",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Measles/rubella (Suspected cases)",
 			"numerator": "#{PR3HRX1IEBj}",
@@ -17080,7 +17158,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:39.741",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Measles/rubella - Attack rate(/100000)",
 			"numerator": "#{PR3HRX1IEBj}",
@@ -17111,7 +17189,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:23.136",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (Confirmed cases)",
 			"numerator": "#{IwElS2y8uzq} + #{e27MJXqMPAW} + #{Nj943YZm5J0} + #{I0hSJHycgzT} + #{LszjUZCLWP2} + #{McxtlIwrSYl} + #{D5nYQAs4YYN} + #{ZcuZSS8QHOg} + #{paABbIxQ6fI} + #{BYXzAABOEbr} + #{J0s9X6GHsOi} + #{m2afIjMnymV}",
@@ -17142,7 +17220,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:20.632",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (CSF contam)",
 			"numerator": "#{UXtfpFrG53k}",
@@ -17173,7 +17251,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:56.565",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (CSF negative)",
 			"numerator": "#{RGmtcR1mcfn}",
@@ -17204,7 +17282,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:26.346",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (Deaths)",
 			"numerator": "#{K2Ky3gBe2sB}",
@@ -17235,7 +17313,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:31.611",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (GBS)",
 			"numerator": "#{IwElS2y8uzq}",
@@ -17266,7 +17344,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:47.556",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (Hib)",
 			"numerator": "#{e27MJXqMPAW}",
@@ -17297,7 +17375,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:48.687",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (In process)",
 			"numerator": "#{Nj943YZm5J0}",
@@ -17328,7 +17406,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:10.783",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (NmA)",
 			"numerator": "#{I0hSJHycgzT}",
@@ -17359,7 +17437,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:03.264",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (NmB)",
 			"numerator": "#{LszjUZCLWP2}",
@@ -17390,7 +17468,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:31:54.359",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (NmC)",
 			"numerator": "#{McxtlIwrSYl}",
@@ -17421,7 +17499,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:54.855",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (NmW)",
 			"numerator": "#{D5nYQAs4YYN}",
@@ -17452,7 +17530,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:57.403",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (NmX)",
 			"numerator": "#{ZcuZSS8QHOg}",
@@ -17483,7 +17561,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:22.115",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (NmY)",
 			"numerator": "#{paABbIxQ6fI}",
@@ -17514,7 +17592,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:55.724",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (Number CSF)",
 			"numerator": "#{LNOSbgZiqaJ}",
@@ -17545,7 +17623,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:16.686",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (Other Nm ind.)",
 			"numerator": "#{BYXzAABOEbr}",
@@ -17576,7 +17654,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:24.131",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (Other Pathogen)",
 			"numerator": "#{J0s9X6GHsOi}",
@@ -17607,7 +17685,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:03.219",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (S. pneumoniae)",
 			"numerator": "#{m2afIjMnymV}",
@@ -17638,7 +17716,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:09.114",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Meningitis (Suspected cases)",
 			"numerator": "#{KUuKOtxzBJ1}",
@@ -17670,7 +17748,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:32.121",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
 			"name": "IDSR - Meningitis - Attack rate(/100000 total pop.)",
 			"numerator": "#{KUuKOtxzBJ1}",
@@ -17697,18 +17775,18 @@
 			"created": "2019-10-15T20:03:22.951",
 			"denominator": "#{KUuKOtxzBJ1}",
 			"denominatorDescription": "Number of reported meningitis cases during the week",
-			"description": "Case Fatality Rate: Number of deaths due to Meningitis as compared to the total number of cases of the disease.",
+			"description": "Number of deaths due to Meningitis as compared to the total number of cases of the disease.",
 			"id": "FS6Ml4vHa4P",
 			"indicatorType": {
 				"id": "hmSnCXmLYwt"
 			},
-			"lastUpdated": "2020-07-01T11:33:32.953",
+			"lastUpdated": "2020-09-29T17:38:04.466",
 			"legendSets": [],
-			"name": "IDSR - Meningitis - CFR (%) ",
+			"name": "IDSR - Meningitis case fatality rate (%)",
 			"numerator": "#{K2Ky3gBe2sB}",
 			"numeratorDescription": "Number of meningitis deaths in a given period",
 			"publicAccess": "r-------",
-			"shortName": "Meningitis - CFR (%) ",
+			"shortName": "IDSR - Meningitis case fatality rate (%)",
 			"translations": [
 				{
 					"locale": "fr",
@@ -17733,7 +17811,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:06.709",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Neonatal tetanus (confirmed case)",
 			"numerator": "-1",
@@ -17758,7 +17836,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:08.369",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Neonatal Tetanus (Deaths)",
 			"numerator": "#{qAM23M0qOId}",
@@ -17790,7 +17868,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:19.585",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Neonatal Tetanus (NNT) - Attack rate(/100000)",
 			"numerator": "#{lTiuuQij9HP}",
@@ -17821,7 +17899,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:15.036",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Neonatal Tetanus (Suspected cases)",
 			"numerator": "#{lTiuuQij9HP}",
@@ -17852,7 +17930,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:13.766",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Non Neonatal tetanus (confirmed case)",
 			"numerator": "-1",
@@ -17877,7 +17955,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:17.579",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Non Neonatal tetanus (Deaths)",
 			"numerator": "#{dKzr3MsO9kG}",
@@ -17908,7 +17986,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:29.301",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Non Neonatal tetanus (Suspected cases)",
 			"numerator": "#{PIeQekpD664}",
@@ -17940,7 +18018,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:36.366",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Non Neonatal tetanus - Attack rate(/100000)",
 			"numerator": "#{PIeQekpD664}",
@@ -17971,7 +18049,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:19.636",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Pertussis (Confirmed cases)",
 			"numerator": "#{RAQCr5DpCzC}",
@@ -18002,7 +18080,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:25.429",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Pertussis (Deaths)",
 			"numerator": "#{bHSkKIwVBay}",
@@ -18033,7 +18111,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:05.010",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Pertussis (Suspected cases)",
 			"numerator": "#{ClUDerxOIWR}",
@@ -18065,7 +18143,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:44.761",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Pertussis - Attack rate(/100000)",
 			"numerator": "#{ClUDerxOIWR}",
@@ -18096,7 +18174,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:07.446",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Plague (Confirmed cases)",
 			"numerator": "#{iuh5hm4RVBR}",
@@ -18127,7 +18205,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:41.771",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Plague (Deaths)",
 			"numerator": "#{qqqAULiKFu2}",
@@ -18158,7 +18236,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:59.034",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Plague (Suspected cases)",
 			"numerator": "#{rl1SLaRmaZ4}",
@@ -18190,7 +18268,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:43.909",
+			"lastUpdated": "2020-09-29T17:38:04.467",
 			"legendSets": [],
 			"name": "IDSR - Plague - Attack rate(/100000)",
 			"numerator": "#{rl1SLaRmaZ4}",
@@ -18222,7 +18300,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:26.218",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Rabie - Attack rate(/100000)",
 			"numerator": "#{lo0rfBSWDbf}",
@@ -18253,7 +18331,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:01.515",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Rabies (Confirmed cases)",
 			"numerator": "#{MbAkHOTlcyp}",
@@ -18284,7 +18362,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:30.783",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Rabies (Deaths)",
 			"numerator": "#{n1iUA7kb0wj}",
@@ -18315,7 +18393,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:35.844",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Rabies (Suspected cases)",
 			"numerator": "#{lo0rfBSWDbf}",
@@ -18347,7 +18425,7 @@
 			"indicatorType": {
 				"id": "hmSnCXmLYwt"
 			},
-			"lastUpdated": "2020-07-01T11:33:25.351",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Report Completeness Rate (%)",
 			"numerator": "R{ZyZmZTUwctj.ACTUAL_REPORTS}",
@@ -18379,7 +18457,7 @@
 			"indicatorType": {
 				"id": "hmSnCXmLYwt"
 			},
-			"lastUpdated": "2020-07-01T11:33:48.193",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Report Timeliness Rate (%)",
 			"numerator": "R{ZyZmZTUwctj.REPORTING_RATE_ON_TIME}",
@@ -18410,7 +18488,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:35.981",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Rubella (Confirmed cases)",
 			"numerator": "#{rVi7C4a14jp}",
@@ -18441,7 +18519,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:38.749",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Viral hemorrhagic fever (Confirmed cases)",
 			"numerator": "#{ezlLC4UCA2g}",
@@ -18472,7 +18550,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:58.205",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Viral hemorrhagic fever (Deaths)",
 			"numerator": "#{hi5J0vMBrbE}",
@@ -18503,7 +18581,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:00.693",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Viral hemorrhagic fever (Suspected cases)",
 			"numerator": "#{FMM88mSULsl}",
@@ -18535,7 +18613,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:21.244",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Viral hemorrhagic fever - Attack rate(/100000)",
 			"numerator": "#{FMM88mSULsl}",
@@ -18566,7 +18644,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T13:06:39.398",
+			"lastUpdated": "2020-09-29T17:38:04.468",
 			"legendSets": [],
 			"name": "IDSR - Yellow Fever (Confirmed cases)",
 			"numerator": "#{I11IpNMGxaR}",
@@ -18597,7 +18675,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T05:32:44.800",
+			"lastUpdated": "2020-09-29T17:38:04.469",
 			"legendSets": [],
 			"name": "IDSR - Yellow Fever (Deaths)",
 			"numerator": "#{sjd8VtIZxmz}",
@@ -18628,7 +18706,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:33:50.663",
+			"lastUpdated": "2020-09-29T17:38:04.469",
 			"legendSets": [],
 			"name": "IDSR - Yellow Fever (probable & Confirmed cases)",
 			"numerator": "#{I11IpNMGxaR} + #{KGWccjjpSdP}",
@@ -18660,7 +18738,7 @@
 			"indicatorType": {
 				"id": "BY11PjGMCg2"
 			},
-			"lastUpdated": "2020-07-01T11:33:51.504",
+			"lastUpdated": "2020-09-29T17:38:04.469",
 			"legendSets": [],
 			"name": "IDSR - Yellow Fever (probable & confirmed) - Attack rate(/100000)",
 			"numerator": "#{KGWccjjpSdP} + #{I11IpNMGxaR}",
@@ -18691,7 +18769,7 @@
 			"indicatorType": {
 				"id": "kHy61PbChXr"
 			},
-			"lastUpdated": "2020-07-01T11:34:02.347",
+			"lastUpdated": "2020-09-29T17:38:04.469",
 			"legendSets": [],
 			"name": "IDSR - Yellow Fever (Suspected cases)",
 			"numerator": "#{Q1xDDDusLwl}",
@@ -32719,7 +32797,7 @@
 			"version": 2
 		}
 	],
-	"package": "IDSR_COMPLETE_V1.0_DHIS2.32_2020-08-05T08:22",
+	"package": "IDSR_COMPLETE_V1.0.1_DHIS2.32_2020-10-20T10:04",
 	"predictors": [
 		{
 			"annualSampleCount": 0,
@@ -40868,7 +40946,7 @@
 			"attributeValues": [],
 			"created": "2019-10-15T10:22:02.186",
 			"id": "iOEfzRCqPEK",
-			"lastUpdated": "2020-08-04T19:50:21.418",
+			"lastUpdated": "2020-09-29T18:45:26.885",
 			"name": "IDSR Validation rules",
 			"publicAccess": "r-------",
 			"translations": [],
@@ -40879,73 +40957,46 @@
 			"userGroupAccesses": [],
 			"validationRules": [
 				{
-					"id": "JeY4g6wahO5"
-				},
-				{
-					"id": "CB7ukUMI7md"
-				},
-				{
-					"id": "OWYVx5ICX2e"
-				},
-				{
 					"id": "YspgfwkxwbP"
 				},
 				{
 					"id": "jpBIpMwYzJT"
 				},
 				{
-					"id": "jddnTG1cmMQ"
+					"id": "JeY4g6wahO5"
 				},
 				{
-					"id": "J4MZYb0NmBi"
+					"id": "CB7ukUMI7md"
 				},
 				{
 					"id": "T078y6B1Xlh"
 				},
 				{
-					"id": "NfDNEOAWN5O"
+					"id": "OWYVx5ICX2e"
 				},
 				{
-					"id": "NX0fbWwP65j"
-				},
-				{
-					"id": "I0Qb4BR3G7O"
-				},
-				{
-					"id": "mGUBTPzD6tC"
-				},
-				{
-					"id": "AJ67VG8D7tp"
-				},
-				{
-					"id": "Yyw0zHW89kT"
-				},
-				{
-					"id": "QzUzKrJg7GU"
+					"id": "jddnTG1cmMQ"
 				},
 				{
 					"id": "aKYfrhPHGLR"
 				},
 				{
-					"id": "RJuydwYrXsh"
+					"id": "a0oHHkZYMCQ"
+				},
+				{
+					"id": "I0Qb4BR3G7O"
+				},
+				{
+					"id": "NX0fbWwP65j"
 				},
 				{
 					"id": "LjGqJZyl4mV"
 				},
 				{
-					"id": "uBRHbuEwRm7"
-				},
-				{
-					"id": "Lhd8iBuqhei"
-				},
-				{
-					"id": "nvlZgqZPS9D"
-				},
-				{
 					"id": "ri5sW0Ode8z"
 				},
 				{
-					"id": "g9dhiUosZPD"
+					"id": "J4MZYb0NmBi"
 				},
 				{
 					"id": "N4YsFm3aKFN"
@@ -40954,10 +41005,13 @@
 					"id": "O0K3P91H39O"
 				},
 				{
+					"id": "wnlPx3DQWEz"
+				},
+				{
 					"id": "CJbk0vtamtZ"
 				},
 				{
-					"id": "bLIghiutoMa"
+					"id": "mGUBTPzD6tC"
 				},
 				{
 					"id": "GrtCR8t9S2H"
@@ -40975,9 +41029,6 @@
 					"id": "PRkubegaucB"
 				},
 				{
-					"id": "mkbjDUQf1j8"
-				},
-				{
 					"id": "Kmowg4bHtx3"
 				},
 				{
@@ -40987,22 +41038,22 @@
 					"id": "Akmfhxnv10d"
 				},
 				{
-					"id": "nMUQs9JiaKB"
+					"id": "bLIghiutoMa"
 				},
 				{
-					"id": "Lxz2liaahqs"
+					"id": "uBRHbuEwRm7"
 				},
 				{
-					"id": "a0oHHkZYMCQ"
+					"id": "DBV9gBBjU6j"
 				},
 				{
-					"id": "vcXrDUTFMuc"
+					"id": "Lhd8iBuqhei"
 				},
 				{
 					"id": "TJtCmWWAgpn"
 				},
 				{
-					"id": "DEnJRhxoMLG"
+					"id": "I4vXbymh6Jx"
 				},
 				{
 					"id": "AqCBw9jrmRT"
@@ -41011,13 +41062,7 @@
 					"id": "JHvaFMa13vf"
 				},
 				{
-					"id": "DBV9gBBjU6j"
-				},
-				{
-					"id": "I4vXbymh6Jx"
-				},
-				{
-					"id": "TS9xxAm0OLv"
+					"id": "RJuydwYrXsh"
 				},
 				{
 					"id": "Tl1BmGtnDgi"
@@ -41028,28 +41073,28 @@
 	"validationRules": [
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.554",
+			"created": "2020-09-29T18:38:28.016",
 			"id": "I4vXbymh6Jx",
 			"importance": "MEDIUM",
-			"instruction": "Acute Watery Diarrhoea Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.640",
+			"instruction": "Acute Watery Diarrhoea confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.016",
 			"leftSide": {
-				"description": "Acute Watery Diarrhoea Suspected case",
-				"expression": "#{flD9dHHw3Wl}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"name": "IDSR - Acute Watery Diarrhoea Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
 				"description": "Acute Watery Diarrhoea Confirmed case",
 				"expression": "#{my2vljFIgT3}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
+			"name": "IDSR - Acute Watery Diarrhea Confirmed<=Suspected ",
+			"operator": "less_than_or_equal_to",
+			"organisationUnitLevels": [],
+			"periodType": "Weekly",
+			"publicAccess": "r-------",
+			"rightSide": {
+				"description": "Acute Watery Diarrhoea Suspected case",
+				"expression": "#{flD9dHHw3Wl}",
+				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
+				"slidingWindow": false
+			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41060,60 +41105,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
-			"id": "TS9xxAm0OLv",
+			"created": "2020-09-29T18:38:28.016",
+			"id": "J4MZYb0NmBi",
 			"importance": "MEDIUM",
-			"instruction": "AFP Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.652",
+			"instruction": "AFP confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.016",
 			"leftSide": {
 				"description": "AFP Confirmed case",
 				"expression": "#{KY2gR9npnfP} + #{KY2gR9npnfP}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - AFP Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
+			"name": "IDSR - AFP Confirmed<=Suspected",
+			"operator": "less_than_or_equal_to",
+			"organisationUnitLevels": [4],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "AFP Death",
-				"expression": "#{P666FBECG0N}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.554",
-			"id": "J4MZYb0NmBi",
-			"importance": "MEDIUM",
-			"instruction": "AFP Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T11:08:43.403",
-			"leftSide": {
 				"description": "AFP Suspected case",
 				"expression": "#{qYJ3YYLADtz}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - AFP Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [4],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "AFP Confirmed case",
-				"expression": "#{KY2gR9npnfP} + #{KY2gR9npnfP}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41124,25 +41137,25 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
-			"id": "nMUQs9JiaKB",
+			"created": "2020-09-29T18:38:28.013",
+			"id": "ri5sW0Ode8z",
 			"importance": "MEDIUM",
-			"instruction": "Cholera Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.654",
+			"instruction": "Cholera confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.013",
 			"leftSide": {
 				"description": "Cholera Confirmed case",
 				"expression": "#{FTWXeWdPdVH}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Cholera Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Cholera Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Cholera Death",
-				"expression": "#{miZ7nLeBp1w}",
+				"description": "Cholera Suspected case",
+				"expression": "#{Sc5efRwnOA9}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
@@ -41156,12 +41169,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:19:49.077",
+			"created": "2020-09-29T18:38:28.016",
 			"description": "1 case RDT positive",
 			"id": "NuZCTdX9v1V",
 			"importance": "MEDIUM",
 			"instruction": "The number of probable cholera cases is 1 or more",
-			"lastUpdated": "2020-07-01T09:08:15.105",
+			"lastUpdated": "2020-09-29T18:38:28.016",
 			"leftSide": {
 				"description": "Acute watery diarrhea (cholera RDT positive)",
 				"expression": "#{my2vljFIgT3}",
@@ -41189,44 +41202,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
-			"id": "ri5sW0Ode8z",
-			"importance": "MEDIUM",
-			"instruction": "Cholera Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.641",
-			"leftSide": {
-				"description": "Cholera Suspected case",
-				"expression": "#{Sc5efRwnOA9}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"name": "IDSR - Cholera Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Cholera Confirmed case",
-				"expression": "#{FTWXeWdPdVH}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2019-11-20T17:34:10.118",
+			"created": "2020-09-29T18:38:28.016",
 			"description": "1 confirmed case",
 			"id": "GrtCR8t9S2H",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed cases of Acute Flaccid Paralysis due to VDPV is 1 or more",
-			"lastUpdated": "2020-07-01T09:08:27.956",
+			"lastUpdated": "2020-09-29T18:38:28.016",
 			"leftSide": {
 				"description": "Acute Flacid Paralysis (confirmed case VDPV)",
 				"expression": "#{KY2gR9npnfP}",
@@ -41254,12 +41235,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:33:30.235",
+			"created": "2020-09-29T18:38:28.017",
 			"description": "1 confirmed case",
 			"id": "Kmowg4bHtx3",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed cases of Acute Flaccid Paralysis due to WPV is 1 or more",
-			"lastUpdated": "2020-07-01T09:08:36.454",
+			"lastUpdated": "2020-09-29T18:38:28.017",
 			"leftSide": {
 				"description": "Acute Flacid Paralysis (confirmed case WPV)",
 				"expression": "#{b0IzLHcVdm0}",
@@ -41287,12 +41268,45 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T18:49:10.759",
+			"created": "2020-09-29T18:38:28.017",
+			"description": "1 confirmed case",
+			"id": "wnlPx3DQWEz",
+			"importance": "MEDIUM",
+			"instruction": "The number of confirmed cases of anthrax is 1 or more",
+			"lastUpdated": "2020-09-29T18:38:28.017",
+			"leftSide": {
+				"description": "Confirmed Anthrax",
+				"expression": "#{AAwOFcp7xdd}",
+				"missingValueStrategy": "NEVER_SKIP",
+				"slidingWindow": false
+			},
+			"name": "IDSR - Confirmed Anthrax",
+			"operator": "less_than",
+			"organisationUnitLevels": [4],
+			"periodType": "Weekly",
+			"publicAccess": "r-------",
+			"rightSide": {
+				"description": "1",
+				"expression": "1",
+				"missingValueStrategy": "NEVER_SKIP",
+				"slidingWindow": false
+			},
+			"skipFormValidation": false,
+			"translations": [],
+			"user": {
+				"id": "vUeLeQMSwhN"
+			},
+			"userAccesses": [],
+			"userGroupAccesses": []
+		},
+		{
+			"attributeValues": [],
+			"created": "2020-09-29T18:38:28.017",
 			"description": "1 confirmed case",
 			"id": "PRkubegaucB",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed cases of dengue fever is 1 or more",
-			"lastUpdated": "2020-07-01T09:08:51.608",
+			"lastUpdated": "2020-09-29T18:38:28.017",
 			"leftSide": {
 				"description": "Confirmed Dengue Fever",
 				"expression": "#{unXcJLrNYNe}",
@@ -41320,12 +41334,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:03:33.020",
+			"created": "2020-09-29T18:38:28.017",
 			"description": "3 confirmed cases in one district in 30 days",
 			"id": "JLm2Y6t2qbQ",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed cases within the district over a 30 day period is 3 or more",
-			"lastUpdated": "2020-07-01T09:09:00.283",
+			"lastUpdated": "2020-09-29T18:38:28.017",
 			"leftSide": {
 				"description": "Confirmed measles outbreak",
 				"expression": "#{Z1lCDUuuuHg}",
@@ -41353,12 +41367,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T18:46:39.153",
+			"created": "2020-09-29T18:38:28.017",
 			"description": "1 confirmed case",
 			"id": "LjGqJZyl4mV",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed cases of rabies is 1 or more",
-			"lastUpdated": "2020-07-01T09:09:07.059",
+			"lastUpdated": "2020-09-29T18:38:28.017",
 			"leftSide": {
 				"description": "Confirmed Rabies",
 				"expression": "#{MbAkHOTlcyp}",
@@ -41386,12 +41400,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:08:02.221",
+			"created": "2020-09-29T18:38:28.018",
 			"description": "1 confirmed case",
 			"id": "Akmfhxnv10d",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed cases of rubella is 1 or more",
-			"lastUpdated": "2020-07-01T09:09:13.977",
+			"lastUpdated": "2020-09-29T18:38:28.018",
 			"leftSide": {
 				"description": "Confirmed Rubella",
 				"expression": "#{rVi7C4a14jp}",
@@ -41419,12 +41433,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:25:44.256",
+			"created": "2020-09-29T18:38:28.018",
 			"description": "One death from severe acute watery diarrhoea in a person at least 5 years old",
 			"id": "I0Qb4BR3G7O",
 			"importance": "MEDIUM",
 			"instruction": "The number of deaths from severe acute watery diarrhoea in a person at least 5 years old is greater then 1",
-			"lastUpdated": "2020-07-01T09:09:22.922",
+			"lastUpdated": "2020-09-29T18:38:28.018",
 			"leftSide": {
 				"description": "Acute watery diarrhoea (Deaths) 5 and above",
 				"expression": "#{bXn9Kmxnd3r.EW1nknsma47}",
@@ -41452,60 +41466,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
-			"id": "AJ67VG8D7tp",
+			"created": "2020-09-29T18:38:28.013",
+			"id": "a0oHHkZYMCQ",
 			"importance": "MEDIUM",
-			"instruction": "Dengue Fever Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.654",
+			"instruction": "Dengue Fever confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.013",
 			"leftSide": {
 				"description": "Dengue Fever Confirmed case",
 				"expression": "#{unXcJLrNYNe}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Dengue Fever Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Dengue Fever Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Dengue Fever Death",
-				"expression": "#{vd4GxqtKkRC}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
-			"id": "a0oHHkZYMCQ",
-			"importance": "MEDIUM",
-			"instruction": "Dengue Fever Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.641",
-			"leftSide": {
 				"description": "Dengue Fever Suspected case",
 				"expression": "#{wryMP8p8k1C}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Dengue Fever Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Dengue Fever Confirmed case",
-				"expression": "#{unXcJLrNYNe}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41516,60 +41498,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.557",
-			"id": "mkbjDUQf1j8",
+			"created": "2020-09-29T18:38:28.014",
+			"id": "DBV9gBBjU6j",
 			"importance": "MEDIUM",
-			"instruction": "Diarrhea with Blood (Shigella) Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.655",
+			"instruction": "Diarrhea with Blood (Shigella) confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.014",
 			"leftSide": {
-				"description": "Diarrhea with Blood (Shigella) Confirmed case",
+				"description": "Diarrhea with Blood (Shigella) Confirmed case",
 				"expression": "#{jxvt8LFSx8e}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Diarrhea with Blood (Shigella) Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Diarrhea with Blood (Shigella) Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Diarrhea with Blood (Shigella) Death",
-				"expression": "#{ddGAKVfTvlQ}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
-			"id": "DBV9gBBjU6j",
-			"importance": "MEDIUM",
-			"instruction": "Diarrhea with Blood (Shigella) Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.642",
-			"leftSide": {
-				"description": "Diarrhea with Blood (Shigella) Suspected case",
+				"description": "Diarrhea with Blood (Shigella) Suspected case",
 				"expression": "#{juTM5EM0Jo0}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Diarrhea with Blood (Shigella) Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Diarrhea with Blood (Shigella) Confirmed case",
-				"expression": "#{jxvt8LFSx8e}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41580,60 +41530,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.557",
-			"id": "g9dhiUosZPD",
+			"created": "2020-09-29T18:38:28.014",
+			"id": "mGUBTPzD6tC",
 			"importance": "MEDIUM",
-			"instruction": "Diphtheria Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.655",
+			"instruction": "Diphtheria confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.014",
 			"leftSide": {
 				"description": "Diphtheria Confirmed case",
 				"expression": "#{X4gFcPKQ8Cw}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Diphtheria Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Diphtheria Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Diphtheria Death",
-				"expression": "#{xfkxDz03AFK}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
-			"id": "mGUBTPzD6tC",
-			"importance": "MEDIUM",
-			"instruction": "Diphtheria Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.642",
-			"leftSide": {
 				"description": "Diphtheria Suspected case",
 				"expression": "#{Hrsq0RqGFKO}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Diphtheria Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Diphtheria Confirmed case",
-				"expression": "#{X4gFcPKQ8Cw}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41644,60 +41562,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.557",
-			"id": "Yyw0zHW89kT",
+			"created": "2020-09-29T18:38:28.014",
+			"id": "bLIghiutoMa",
 			"importance": "MEDIUM",
-			"instruction": "Measles Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.656",
+			"instruction": "Measles confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.014",
 			"leftSide": {
 				"description": "Measles Confirmed case",
 				"expression": "#{yMlASPYVU2v}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Measles Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Measles Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Measles Death",
-				"expression": "#{qNsd9cPWNVo}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
-			"id": "bLIghiutoMa",
-			"importance": "MEDIUM",
-			"instruction": "Measles Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.643",
-			"leftSide": {
 				"description": "Measles Suspected case",
 				"expression": "#{PR3HRX1IEBj}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Measles Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Measles Confirmed case",
-				"expression": "#{yMlASPYVU2v}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41708,12 +41594,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-03-05T10:06:34.847",
+			"created": "2020-09-29T18:38:28.018",
 			"description": " 3 suspected cases/100 000 inhabitants / week (Minimum of 2 cases in one week) for district /subdistrict population above 30000 or  3 suspected cases/100 000 inhabitants / week (Minimum of 2 cases in one week) for district /subdistrict population above 30000",
 			"id": "AqCBw9jrmRT",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed Meningitis cases is 1 or more",
-			"lastUpdated": "2020-07-01T09:09:39.927",
+			"lastUpdated": "2020-09-29T18:38:28.018",
 			"leftSide": {
 				"description": "Meningitis alert",
 				"expression": "#{KNruIU8QeKP}",
@@ -41741,25 +41627,25 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.557",
-			"id": "vcXrDUTFMuc",
+			"created": "2020-09-29T18:38:28.014",
+			"id": "NX0fbWwP65j",
 			"importance": "MEDIUM",
-			"instruction": "Meningitis Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.656",
+			"instruction": "Meningitis confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.014",
 			"leftSide": {
 				"description": "Meningitis Confirmed case",
 				"expression": "#{LNOSbgZiqaJ} + #{LNOSbgZiqaJ} + #{Nj943YZm5J0} + #{UXtfpFrG53k} + #{RGmtcR1mcfn} + #{IwElS2y8uzq} + #{e27MJXqMPAW} + #{D5nYQAs4YYN} + #{I0hSJHycgzT} + #{LszjUZCLWP2} + #{McxtlIwrSYl} + #{ZcuZSS8QHOg} + #{paABbIxQ6fI} + #{BYXzAABOEbr} + #{J0s9X6GHsOi}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Meningitis Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Meningitis Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Meningitis Death",
-				"expression": "#{K2Ky3gBe2sB}",
+				"description": "Meningitis Suspected case",
+				"expression": "#{KUuKOtxzBJ1}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
@@ -41773,12 +41659,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-03-05T10:10:01.204",
+			"created": "2020-09-29T18:38:28.018",
 			"description": "10 suspected cases/100 000 inhabitants / week for district /subdistrict population above 30000 or  5 suspected cases in one week or doubling of the number of cases in a three-week period (epidemic alert) for district/ subdistrict population under 30000",
 			"id": "N4YsFm3aKFN",
 			"importance": "MEDIUM",
 			"instruction": "The number of confirmed Meningitis cases is 1 or more",
-			"lastUpdated": "2020-07-01T09:09:51.763",
+			"lastUpdated": "2020-09-29T18:38:28.018",
 			"leftSide": {
 				"description": "Meningitis alert",
 				"expression": "#{I3570OWVcKN}",
@@ -41806,60 +41692,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
-			"id": "NX0fbWwP65j",
-			"importance": "MEDIUM",
-			"instruction": "Meningitis Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.644",
-			"leftSide": {
-				"description": "Meningitis Suspected case",
-				"expression": "#{KUuKOtxzBJ1}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"name": "IDSR - Meningitis Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Meningitis Confirmed case",
-				"expression": "#{LNOSbgZiqaJ} + #{LNOSbgZiqaJ} + #{Nj943YZm5J0} + #{UXtfpFrG53k} + #{RGmtcR1mcfn} + #{IwElS2y8uzq} + #{e27MJXqMPAW} + #{D5nYQAs4YYN} + #{I0hSJHycgzT} + #{LszjUZCLWP2} + #{McxtlIwrSYl} + #{ZcuZSS8QHOg} + #{paABbIxQ6fI} + #{BYXzAABOEbr} + #{J0s9X6GHsOi}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
+			"created": "2020-09-29T18:38:28.014",
 			"id": "uBRHbuEwRm7",
 			"importance": "MEDIUM",
-			"instruction": "Neonatal Tetanus Suspected cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.647",
+			"instruction": "Neonatal Tetanus confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.014",
 			"leftSide": {
-				"description": "Neonatal Tetanus Suspected case",
-				"expression": "#{lTiuuQij9HP}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"name": "IDSR - Neonatal Tetanus Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
 				"description": "Neonatal Tetanus Death",
 				"expression": "#{qAM23M0qOId}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
+			"name": "IDSR - Neonatal Tetanus Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
+			"organisationUnitLevels": [],
+			"periodType": "Weekly",
+			"publicAccess": "r-------",
+			"rightSide": {
+				"description": "Neonatal Tetanus Suspected case",
+				"expression": "#{lTiuuQij9HP}",
+				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
+				"slidingWindow": false
+			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41870,28 +41724,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.555",
+			"created": "2020-09-29T18:38:28.015",
 			"id": "aKYfrhPHGLR",
 			"importance": "MEDIUM",
-			"instruction": "Non Neonatal Tetanus Suspected cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.648",
+			"instruction": "Non Neonatal Tetanus confirmed cases should be less to or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.015",
 			"leftSide": {
-				"description": "Non Neonatal Tetanus Suspected case",
-				"expression": "#{PIeQekpD664}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"name": "IDSR - Non Neonatal Tetanus Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
 				"description": "Non Neonatal Tetanus Death",
 				"expression": "#{dKzr3MsO9kG}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
+			"name": "IDSR - Non Neonatal Tetanus Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
+			"organisationUnitLevels": [],
+			"periodType": "Weekly",
+			"publicAccess": "r-------",
+			"rightSide": {
+				"description": "Non Neonatal Tetanus Suspected case",
+				"expression": "#{PIeQekpD664}",
+				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
+				"slidingWindow": false
+			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41902,12 +41756,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-03-04T12:20:38.155",
+			"created": "2020-09-29T18:38:28.018",
 			"description": "1 death from severe AWD in a person ",
 			"id": "JeY4g6wahO5",
 			"importance": "MEDIUM",
 			"instruction": "Found one death from severe AWD in a person",
-			"lastUpdated": "2020-07-01T09:10:33.839",
+			"lastUpdated": "2020-09-29T18:38:28.018",
 			"leftSide": {
 				"description": "One death from severe AWD in a person ",
 				"expression": "#{v2FeCwrKNt5}",
@@ -41935,60 +41789,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.557",
-			"id": "NfDNEOAWN5O",
+			"created": "2020-09-29T18:38:28.015",
+			"id": "Lhd8iBuqhei",
 			"importance": "MEDIUM",
-			"instruction": "Pertussis Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.657",
+			"instruction": "Pertussis confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.015",
 			"leftSide": {
 				"description": "Pertussis Confirmed case",
 				"expression": "#{RAQCr5DpCzC}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Pertussis Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Pertussis Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Pertussis Death",
-				"expression": "#{bHSkKIwVBay}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
-			"id": "Lhd8iBuqhei",
-			"importance": "MEDIUM",
-			"instruction": "Pertussis Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.649",
-			"leftSide": {
 				"description": "Pertussis Suspected case",
 				"expression": "#{ClUDerxOIWR}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Pertussis Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Pertussis Confirmed case",
-				"expression": "#{RAQCr5DpCzC}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -41999,60 +41821,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.561",
-			"id": "Lxz2liaahqs",
+			"created": "2020-09-29T18:38:28.015",
+			"id": "YspgfwkxwbP",
 			"importance": "MEDIUM",
-			"instruction": "Plague Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.657",
+			"instruction": "Plague confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.015",
 			"leftSide": {
 				"description": "Plague Confirmed case",
 				"expression": "#{iuh5hm4RVBR}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Plague Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Plague Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Plague Death",
-				"expression": "#{qqqAULiKFu2}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
-			"id": "YspgfwkxwbP",
-			"importance": "MEDIUM",
-			"instruction": "Plague Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.649",
-			"leftSide": {
 				"description": "Plague Suspected case",
 				"expression": "#{rl1SLaRmaZ4}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Plague Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Plague Confirmed case",
-				"expression": "#{iuh5hm4RVBR}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -42063,12 +41853,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:15:00.747",
+			"created": "2020-09-29T18:38:28.018",
 			"description": "1 case with IgM positive",
 			"id": "CJbk0vtamtZ",
 			"importance": "MEDIUM",
 			"instruction": "The number of probable yellow fever cases (IgM positive) is 1 or more",
-			"lastUpdated": "2020-07-01T09:10:06.686",
+			"lastUpdated": "2020-09-29T18:38:28.018",
 			"leftSide": {
 				"description": "Yellow Fever (IgM positive)",
 				"expression": "#{KGWccjjpSdP}",
@@ -42096,60 +41886,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.561",
-			"id": "DEnJRhxoMLG",
+			"created": "2020-09-29T18:38:28.015",
+			"id": "jpBIpMwYzJT",
 			"importance": "MEDIUM",
-			"instruction": "Rabies Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.657",
+			"instruction": "Rabies confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.015",
 			"leftSide": {
 				"description": "Rabies Confirmed case",
 				"expression": "#{MbAkHOTlcyp}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Rabies Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Rabies Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Rabies Death",
-				"expression": "#{n1iUA7kb0wj}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
-			"id": "jpBIpMwYzJT",
-			"importance": "MEDIUM",
-			"instruction": "Rabies Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.650",
-			"leftSide": {
 				"description": "Rabies Suspected case",
 				"expression": "#{lo0rfBSWDbf}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Rabies Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Rabies Confirmed case",
-				"expression": "#{MbAkHOTlcyp}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -42160,12 +41918,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:42:40.527",
+			"created": "2020-09-29T18:38:28.019",
 			"description": "3 suspected cases",
 			"id": "O0K3P91H39O",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases of diarrhoea with blood (shigella) is 3 or more",
-			"lastUpdated": "2020-07-01T09:10:45.306",
+			"lastUpdated": "2020-09-29T18:38:28.019",
 			"leftSide": {
 				"description": "Diarrhoea with blood (Shigella) (Suspected case)",
 				"expression": "#{juTM5EM0Jo0}",
@@ -42193,12 +41951,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T18:56:45.572",
+			"created": "2020-09-29T18:38:28.019",
 			"description": "1 suspected case",
 			"id": "ZFRbUrfTS4v",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases of diphtheria is 1 or more",
-			"lastUpdated": "2020-07-01T09:10:17.813",
+			"lastUpdated": "2020-09-29T18:38:28.019",
 			"leftSide": {
 				"description": "Diptheria (Suspected case)",
 				"expression": "#{Hrsq0RqGFKO}",
@@ -42226,12 +41984,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-10-15T10:14:12.134",
+			"created": "2020-09-29T18:38:28.019",
 			"description": "5 suspected cases in one district in 30 days",
 			"id": "jddnTG1cmMQ",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases in the district are 5 or more",
-			"lastUpdated": "2020-07-01T09:10:59.842",
+			"lastUpdated": "2020-09-29T18:38:28.019",
 			"leftSide": {
 				"description": "Measles alert",
 				"expression": "#{mZ08SCurQVX}",
@@ -42259,12 +42017,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T17:35:27.741",
+			"created": "2020-09-29T18:38:28.019",
 			"description": "1 suspected case",
 			"id": "CB7ukUMI7md",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases of neonatal tetanus is 1 or more",
-			"lastUpdated": "2020-07-01T09:11:11.074",
+			"lastUpdated": "2020-09-29T18:38:28.019",
 			"leftSide": {
 				"description": "Neonatal Tetanus (Suspected case)",
 				"expression": "#{lTiuuQij9HP}",
@@ -42292,12 +42050,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T18:55:28.576",
+			"created": "2020-09-29T18:38:28.019",
 			"description": "1 suspected case",
 			"id": "OWYVx5ICX2e",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases of non-neonatal tetanus is 1 or more",
-			"lastUpdated": "2020-07-01T09:11:24.500",
+			"lastUpdated": "2020-09-29T18:38:28.019",
 			"leftSide": {
 				"description": "Non Neonatal Tetanus (Suspected case)",
 				"expression": "#{PIeQekpD664}",
@@ -42325,12 +42083,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T18:56:04.926",
+			"created": "2020-09-29T18:38:28.020",
 			"description": "1 suspected case",
 			"id": "JHvaFMa13vf",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases of pertussis is 1 or more",
-			"lastUpdated": "2020-07-01T09:11:36.121",
+			"lastUpdated": "2020-09-29T18:38:28.020",
 			"leftSide": {
 				"description": "Pertussis (Suspected case)",
 				"expression": "#{ClUDerxOIWR}",
@@ -42358,12 +42116,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T18:54:55.253",
+			"created": "2020-09-29T18:38:28.020",
 			"description": "1 suspected case",
 			"id": "TJtCmWWAgpn",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases of plague is 1 or more",
-			"lastUpdated": "2020-07-01T09:11:47.082",
+			"lastUpdated": "2020-09-29T18:38:28.020",
 			"leftSide": {
 				"description": "Plague (Suspected case)",
 				"expression": "#{rl1SLaRmaZ4}",
@@ -42391,12 +42149,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2019-11-20T18:48:41.432",
+			"created": "2020-09-29T18:38:28.020",
 			"description": "1 suspected case",
 			"id": "Tl1BmGtnDgi",
 			"importance": "MEDIUM",
 			"instruction": "The number of suspected cases of viral haemorragic fever is 1 or more",
-			"lastUpdated": "2020-07-01T09:11:58.899",
+			"lastUpdated": "2020-09-29T18:38:28.020",
 			"leftSide": {
 				"description": "Suspected Viral Haemorragic Fever",
 				"expression": "#{FMM88mSULsl}",
@@ -42424,12 +42182,12 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-03-04T12:35:24.437",
+			"created": "2020-09-29T18:38:28.020",
 			"description": "2 or more AWD aged 2 years + (linked by time and place) with severe dehydration or dying",
 			"id": "ecHeOQORxfc",
 			"importance": "MEDIUM",
 			"instruction": "Found 2 or more AWD aged 2 years + (linked by time and place) with severe dehydration or dying",
-			"lastUpdated": "2020-07-01T09:12:18.549",
+			"lastUpdated": "2020-09-29T18:38:28.020",
 			"leftSide": {
 				"description": "2 or more AWD aged 2 years + (linked by time and place) with severe dehydration or dying",
 				"expression": "#{ZOVJGcrCdCH}",
@@ -42457,60 +42215,28 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.561",
-			"id": "QzUzKrJg7GU",
+			"created": "2020-09-29T18:38:28.015",
+			"id": "T078y6B1Xlh",
 			"importance": "MEDIUM",
-			"instruction": "Viral Hemorrhagic Fever Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.658",
+			"instruction": "Viral Hemorrhagic Fever confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.015",
 			"leftSide": {
 				"description": "Viral Hemorrhagic Fever Confirmed case",
 				"expression": "#{ezlLC4UCA2g}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Viral Hemorrhagic Fever Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Viral Hemorrhagic Fever Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Viral Hemorrhagic Fever Death",
-				"expression": "#{hi5J0vMBrbE}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
-			"id": "T078y6B1Xlh",
-			"importance": "MEDIUM",
-			"instruction": "Viral Hemorrhagic Fever Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.651",
-			"leftSide": {
 				"description": "Viral Hemorrhagic Fever Suspected case",
 				"expression": "#{FMM88mSULsl}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Viral Hemorrhagic Fever Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Viral Hemorrhagic Fever Confirmed case",
-				"expression": "#{ezlLC4UCA2g}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
 			"skipFormValidation": false,
 			"translations": [],
 			"user": {
@@ -42521,57 +42247,25 @@
 		},
 		{
 			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.561",
-			"id": "nvlZgqZPS9D",
-			"importance": "MEDIUM",
-			"instruction": "Yellow Fever Confirmed cases must greater or equal than Death",
-			"lastUpdated": "2020-07-01T10:38:08.658",
-			"leftSide": {
-				"description": "Yellow Fever Confirmed case",
-				"expression": "#{I11IpNMGxaR}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"name": "IDSR - Yellow Fever Confirmed >= Death",
-			"operator": "greater_than_or_equal_to",
-			"organisationUnitLevels": [],
-			"periodType": "Weekly",
-			"publicAccess": "r-------",
-			"rightSide": {
-				"description": "Yellow Fever Death",
-				"expression": "#{sjd8VtIZxmz}",
-				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
-				"slidingWindow": false
-			},
-			"skipFormValidation": false,
-			"translations": [],
-			"user": {
-				"id": "vUeLeQMSwhN"
-			},
-			"userAccesses": [],
-			"userGroupAccesses": []
-		},
-		{
-			"attributeValues": [],
-			"created": "2020-07-01T10:38:08.556",
+			"created": "2020-09-29T18:38:28.015",
 			"id": "RJuydwYrXsh",
 			"importance": "MEDIUM",
-			"instruction": "Yellow Fever Suspected cases must greater or equal than Confirmed Cases",
-			"lastUpdated": "2020-07-01T10:38:08.651",
+			"instruction": "Yellow Fever confirmed cases should be less than or equal to suspected cases",
+			"lastUpdated": "2020-09-29T18:38:28.015",
 			"leftSide": {
-				"description": "Yellow Fever Suspected case",
-				"expression": "#{Q1xDDDusLwl}",
+				"description": "Yellow Fever Confirmed case",
+				"expression": "#{I11IpNMGxaR}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
-			"name": "IDSR - Yellow Fever Suspected >= Confirmed",
-			"operator": "greater_than_or_equal_to",
+			"name": "IDSR - Yellow Fever Confirmed <= Suspected",
+			"operator": "less_than_or_equal_to",
 			"organisationUnitLevels": [],
 			"periodType": "Weekly",
 			"publicAccess": "r-------",
 			"rightSide": {
-				"description": "Yellow Fever Confirmed case",
-				"expression": "#{I11IpNMGxaR}",
+				"description": "Yellow Fever Suspected case",
+				"expression": "#{Q1xDDDusLwl}",
 				"missingValueStrategy": "SKIP_IF_ANY_VALUE_MISSING",
 				"slidingWindow": false
 			},
