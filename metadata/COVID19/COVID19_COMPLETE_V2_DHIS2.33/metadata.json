@@ -4773,40 +4773,61 @@
 	"sections": [
 		{
 			"attributeValues": [],
-			"created": "2020-09-17T07:02:07.877",
+			"created": "2020-10-26T06:29:04.501",
 			"dataElements": [
 				{
 					"id": "SU1j9CmCuW9"
 				},
 				{
-					"id": "bmbNyNoJcXP"
-				},
-				{
-					"id": "rBw83gVQLHK"
-				},
-				{
 					"id": "DI9JgEJ3t8v"
-				},
+				}
+			],
+			"dataSet": {
+				"id": "uKtOZwDnIpM"
+			},
+			"greyedFields": [],
+			"id": "DFZ530AsisR",
+			"indicators": [],
+			"lastUpdated": "2020-10-26T06:39:32.430",
+			"name": "Health worker infection and death",
+			"showColumnTotals": false,
+			"showRowTotals": false,
+			"sortOrder": 3,
+			"translations": []
+		},
+		{
+			"attributeValues": [],
+			"created": "2020-10-26T06:29:35.132",
+			"dataElements": [
 				{
 					"id": "fJ7Qi1zcdAR"
 				},
 				{
 					"id": "cW0odY9vhrd"
+				}
+			],
+			"dataSet": {
+				"id": "uKtOZwDnIpM"
+			},
+			"greyedFields": [],
+			"id": "LsTxlZ01Cxn",
+			"indicators": [],
+			"lastUpdated": "2020-10-26T06:29:35.132",
+			"name": "Hospitalisation and discharges",
+			"showColumnTotals": false,
+			"showRowTotals": false,
+			"sortOrder": 4,
+			"translations": []
+		},
+		{
+			"attributeValues": [],
+			"created": "2020-09-17T07:02:07.877",
+			"dataElements": [
+				{
+					"id": "bmbNyNoJcXP"
 				},
 				{
 					"id": "VnkErE22ELJ"
-				},
-				{
-					"id": "N59eghaBpM7"
-				},
-				{
-					"id": "E1pXvzyZzKB"
-				},
-				{
-					"id": "pZtyMNtYPLM"
-				},
-				{
-					"id": "sWCFbUawFDa"
 				}
 			],
 			"dataSet": {
@@ -4815,11 +4836,80 @@
 			"greyedFields": [],
 			"id": "i9rpQqB3Hfh",
 			"indicators": [],
-			"lastUpdated": "2020-09-17T07:02:07.877",
-			"name": "Aggregate Weekly Surveillance",
+			"lastUpdated": "2020-10-26T06:38:13.195",
+			"name": "New confirmed and probable cases",
 			"showColumnTotals": false,
 			"showRowTotals": true,
 			"sortOrder": 1,
+			"translations": []
+		},
+		{
+			"attributeValues": [],
+			"created": "2020-10-26T06:26:36.143",
+			"dataElements": [
+				{
+					"id": "N59eghaBpM7"
+				},
+				{
+					"id": "rBw83gVQLHK"
+				}
+			],
+			"dataSet": {
+				"id": "uKtOZwDnIpM"
+			},
+			"greyedFields": [],
+			"id": "WpkRkdnPvjU",
+			"indicators": [],
+			"lastUpdated": "2020-10-26T06:38:06.642",
+			"name": "New probable and confirmed deaths",
+			"showColumnTotals": false,
+			"showRowTotals": true,
+			"sortOrder": 2,
+			"translations": []
+		},
+		{
+			"attributeValues": [],
+			"created": "2020-10-26T06:30:30.902",
+			"dataElements": [
+				{
+					"id": "E1pXvzyZzKB"
+				},
+				{
+					"id": "pZtyMNtYPLM"
+				}
+			],
+			"dataSet": {
+				"id": "uKtOZwDnIpM"
+			},
+			"greyedFields": [],
+			"id": "r6tjZBmD6UQ",
+			"indicators": [],
+			"lastUpdated": "2020-10-26T06:30:30.902",
+			"name": "Tests conducted",
+			"showColumnTotals": false,
+			"showRowTotals": false,
+			"sortOrder": 5,
+			"translations": []
+		},
+		{
+			"attributeValues": [],
+			"created": "2020-10-26T06:30:54.582",
+			"dataElements": [
+				{
+					"id": "sWCFbUawFDa"
+				}
+			],
+			"dataSet": {
+				"id": "uKtOZwDnIpM"
+			},
+			"greyedFields": [],
+			"id": "GTFXasEGT2O",
+			"indicators": [],
+			"lastUpdated": "2020-10-26T06:38:18.525",
+			"name": "Transmission classification",
+			"showColumnTotals": false,
+			"showRowTotals": false,
+			"sortOrder": 6,
 			"translations": []
 		}
 	],
