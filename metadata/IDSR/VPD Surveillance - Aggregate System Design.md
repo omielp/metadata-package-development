@@ -1,7 +1,6 @@
 # Disease surveillance aggregate system design
 
 Draft version, last updated 2020-05-29
-[TOC]
 # Introduction
 This document describes the system design for the aggregate disease surveillance digital data package. This includes the following:
 
